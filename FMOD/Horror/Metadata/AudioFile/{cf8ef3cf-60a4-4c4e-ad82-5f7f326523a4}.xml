@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{cf8ef3cf-60a4-4c4e-ad82-5f7f326523a4}">
+		<property name="assetPath">
+			<value>676384__stevenmyat__cassette-on-and-off.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>16.248000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cb700484-d376-4f10-b9ff-b9bf0cd473e6}</destination>
+		</relationship>
+	</object>
+</objects>

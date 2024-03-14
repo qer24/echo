@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7257d657-5164-42af-81de-680e8997a355}">
+		<property name="assetPath">
+			<value>15419__pagancow__dorm-door-opening.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.7890833333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cb700484-d376-4f10-b9ff-b9bf0cd473e6}</destination>
+		</relationship>
+	</object>
+</objects>

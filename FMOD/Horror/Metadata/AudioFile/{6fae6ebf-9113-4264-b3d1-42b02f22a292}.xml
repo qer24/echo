@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6fae6ebf-9113-4264-b3d1-42b02f22a292}">
+		<property name="assetPath">
+			<value>ClothEquipment_Unequip.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.50659863945578232</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cb700484-d376-4f10-b9ff-b9bf0cd473e6}</destination>
+		</relationship>
+	</object>
+</objects>

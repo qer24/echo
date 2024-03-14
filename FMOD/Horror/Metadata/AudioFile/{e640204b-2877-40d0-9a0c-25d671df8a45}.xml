@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e640204b-2877-40d0-9a0c-25d671df8a45}">
+		<property name="assetPath">
+			<value>Footsteps_Rock_Walk_06.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.45677083333333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{cb700484-d376-4f10-b9ff-b9bf0cd473e6}</destination>
+		</relationship>
+	</object>
+</objects>
